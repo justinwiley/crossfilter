@@ -16,6 +16,6 @@
   "devDependencies": {
     "d3": "2.8.0",
     "vows": "0.6.1",
-    "uglify-js": "1.2.5"
+    "uglify-js": "3.10.0"
   }
 }
